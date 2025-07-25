@@ -81,7 +81,7 @@
 
 ###
 
-<h1 align="center">🚀 My GitHub Journey</h1>
+<h1 align="center">📈 My GitHub Journey</h1>
 
 ###
 
@@ -122,6 +122,20 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t7yawqy73izd4toczzvaulzmgy&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+###
+
+<h1 align="center">☕️ How To Support Me</h1>
+
+###
+
+<p align="center">
+  <a href="http://www.coffeete.ir/AmiraliTaherkhany">
+       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+  </a>
+</p>
 
 ###
 
