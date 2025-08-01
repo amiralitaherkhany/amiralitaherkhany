@@ -7,7 +7,9 @@
 <h1 align="center">💡Hello World!!</h1>
 
 ###
-
+<div align="center">
+  <img height="150" width="150" src="1de3bd65cea4bd00b89c3e3f83cd065f8e06b09c.png"  />
+</div>
 <h4 align="center">Hi, I’m Amirali👋<br>I'm a passionate developer who enjoys building mobile apps and backend systems. I mostly work with Flutter, Dart, Kotlin, and Go.<br><br>I love learning new technologies and turning ideas into real working softwares.<br>Here you'll find some of my personal projects, experiments, and tools I’ve built along the way.<br><br>Let’s connect and create something great together!</h4>
 
 ###
