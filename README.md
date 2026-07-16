@@ -115,18 +115,6 @@
 
 ###
 
-<h1 align="center">🎵 My Recent Tracks</h1>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31t7yawqy73izd4toczzvaulzmgy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t7yawqy73izd4toczzvaulzmgy&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 ###
 
 <h1 align="center">☕️ How To Support Me</h1>
